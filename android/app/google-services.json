@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546497920060",
+    "project_id": "d3v-chat",
+    "storage_bucket": "d3v-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546497920060:android:96b8f2301f4b7b79bb9739",
+        "android_client_info": {
+          "package_name": "br.com.d3v.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546497920060-dndda7t330oatjknqav9hvi8qo1sn5hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnZu0-OKF8d5AMoA7_a2rPW_El-1jKHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546497920060-dndda7t330oatjknqav9hvi8qo1sn5hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
